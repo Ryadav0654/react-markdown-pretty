@@ -1,12 +1,12 @@
-# react-github-markdown-pretty
+# react-markdown-pretty
 
 Render beautiful, modern, GitHub‑styled Markdown in your React / Next.js app with a single component.
 
 > 📄 Just install & use:
 > ```jsx
-> import ReactGithubMarkdownPretty from 'react-github-markdown-pretty';
+> import ReactMarkdownPretty from 'react-markdown-pretty';
 >
-> <ReactGithubMarkdownPretty>{markdown}</ReactGithubMarkdownPretty>
+> <ReactMarkdownPretty>{markdown}</ReactMarkdownPretty>
 > ```
 
 ![Screenshot](https://raw.githubusercontent.com/Ryadav0654/react-markdown-pretty/main/assets/screenshot.png)
